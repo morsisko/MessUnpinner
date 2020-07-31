@@ -1,4 +1,4 @@
-# InstaUnpinner
+# MessUnpinner
 SSL certificate unpinner for Android Facebook Messenger
 
 You need **ROOT** access to perform this operations!
